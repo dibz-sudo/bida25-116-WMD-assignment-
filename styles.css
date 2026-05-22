@@ -46,7 +46,7 @@ nav a:hover {
     color: #66b3ff;
 }
 
-
+/* HERO */
 .hero {
     text-align: center;
     padding: 80px 20px;
@@ -58,7 +58,7 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
-
+/* BUTTONS */
 button {
     padding: 10px 20px;
     background: white;
@@ -74,7 +74,7 @@ button:hover {
     transform: scale(1.05);
 }
 
-
+/* SECTIONS */
 section {
     
     padding: 40px 20px;
@@ -111,7 +111,7 @@ section {
     box-shadow: 0px 10px 25px rgba(0,0,0,0.2);
 }
 
-
+/* FORMS */
 input, textarea {
     padding: 10px;
     margin: 10px;
@@ -120,7 +120,7 @@ input, textarea {
     border-radius: 5px;
 }
 
-
+/* FOOTER */
 footer {
     background: #004080;
     color: white;
@@ -128,7 +128,7 @@ footer {
     text-align: center;
 }
 
-
+/* ANIMATION */
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -140,7 +140,7 @@ footer {
     }
 }
 
-
+/* RESPONSIVE */
 @media (max-width: 768px) {
 
     header {
